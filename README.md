@@ -25,7 +25,6 @@ Me chamo Gabriel Augusto dos Santos, tenho 22 anos e sou natural de Belo Horizon
 
 ### 🤖 Linguagens e Tecnologias
 
-
 <img
     align="left" 
     alt="Python"
@@ -79,14 +78,6 @@ Me chamo Gabriel Augusto dos Santos, tenho 22 anos e sou natural de Belo Horizon
     src="https://github-readme-stats.vercel.app/api?username=gabrielaugusto872&show_icons=true&theme=bear&include_all_commits=true&locale=pt-br" 
 />
 
-<img 
-    align="right" 
-    alt="Github Streak" 
-    height="190" 
-    style="padding-right: 10px;" 
-    src="https://streak-stats.demolab.com/?user=gabrielaugusto872&theme=bear&background=000&border=30A3DC&dates=FFF" 
-/>
-
 <!-- GITHUB STATS LINGUAGENS
 <img 
     align="left" 
@@ -96,6 +87,25 @@ Me chamo Gabriel Augusto dos Santos, tenho 22 anos e sou natural de Belo Horizon
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaugusto872&theme=dark&layout=compact&langs_count=9&custom_title=Tecnologias" 
 />
 -->
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+### 🔥 Sequência
+
+<img 
+    align="center" 
+    alt="Github Streak" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://streak-stats.demolab.com/?user=gabrielaugusto872&theme=bear&background=000&border=30A3DC&dates=FFF" 
+/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielaugusto872/gabrielaugusto872/output/github-contribution-grid-snake-dark.svg">
