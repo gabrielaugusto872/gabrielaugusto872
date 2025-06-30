@@ -74,7 +74,7 @@ Me chamo Gabriel Augusto dos Santos, tenho 22 anos e sou natural de Belo Horizon
 <img 
     align="left" 
     alt="Github Stats" 
-    height="200" 
+    height="190" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=gabrielaugusto872&show_icons=true&theme=bear&include_all_commits=true&locale=pt-br" 
 />
@@ -82,7 +82,7 @@ Me chamo Gabriel Augusto dos Santos, tenho 22 anos e sou natural de Belo Horizon
 <img 
     align="left" 
     alt="Github Streak" 
-    height="185" 
+    height="190" 
     style="padding-right: 10px;" 
     src="https://streak-stats.demolab.com/?user=gabrielaugusto872&theme=bear&background=000&border=30A3DC&dates=FFF" 
 />
