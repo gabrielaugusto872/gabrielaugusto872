@@ -79,6 +79,7 @@ Me chamo Gabriel Augusto dos Santos, tenho 22 anos e sou natural de Belo Horizon
     src="https://github-readme-stats.vercel.app/api?username=gabrielaugusto872&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
 />
 
+<!-- GITHUB STATS LINGUAGENS
 <img 
     align="left" 
     alt="Github Stats" 
@@ -86,6 +87,8 @@ Me chamo Gabriel Augusto dos Santos, tenho 22 anos e sou natural de Belo Horizon
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaugusto872&theme=dark&layout=compact&langs_count=9&custom_title=Tecnologias" 
 />
+-->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gabrielaugusto872&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielaugusto872/gabrielaugusto872/output/github-contribution-grid-snake-dark.svg">
