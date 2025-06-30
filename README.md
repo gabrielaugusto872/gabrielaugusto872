@@ -82,7 +82,7 @@ Me chamo Gabriel Augusto dos Santos, tenho 22 anos e sou natural de Belo Horizon
 <img 
     align="left" 
     alt="Github Streak" 
-    height="189" 
+    height="190" 
     style="padding-right: 10px;" 
     src="https://streak-stats.demolab.com/?user=gabrielaugusto872&theme=bear&background=000&border=30A3DC&dates=FFF" 
 />
