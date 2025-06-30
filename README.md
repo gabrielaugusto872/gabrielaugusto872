@@ -12,18 +12,11 @@ Me chamo Gabriel Augusto dos Santos, tenho 22 anos e sou natural de Belo Horizon
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/gabrielaugusto872?tab=repositories&sort=stargazers">
+    <a href="mailto:gabrielaugusto873@yahoo.com.br">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gabrielaugusto872?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/gabrielaugusto872?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gabrielaugusto872?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Email" 
+            title="Meu Email para contato" 
+            src="https://img.shields.io/badge/-Email-330F63?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF"
         />
     </a>
 </p>
