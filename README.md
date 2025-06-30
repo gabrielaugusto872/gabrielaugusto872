@@ -5,6 +5,13 @@
 Me chamo Gabriel Augusto dos Santos, tenho 22 anos e sou natural de Belo Horizonte. Concluí o ensino médio no IFMG, com o curso técnico em eletrônica. Atualmente, estou cursando Engenharia de Controle e Automação na UFMG.
 
 <p align="left">
+    <a href="https://www.linkedin.com/in/gabriel-dos-santos-b34861248/">
+        <img 
+            alt="Linkedin" 
+            title="Veja meu Linkedin" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
     <a href="https://github.com/gabrielaugusto872?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -17,13 +24,6 @@ Me chamo Gabriel Augusto dos Santos, tenho 22 anos e sou natural de Belo Horizon
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/gabrielaugusto872?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/gabriel-dos-santos-b34861248/">
-        <img 
-            alt="Linkedin" 
-            title="Veja meu Linkedin" 
-            src="https://img.shields.io/badge/LinkedIn-%23E05D44?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=CE4630"
         />
     </a>
 </p>
