@@ -43,14 +43,6 @@ Me chamo Gabriel Augusto dos Santos, tenho 22 anos e sou natural de Belo Horizon
 />
 <img
     align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"
-/>
-<img
-    align="left" 
     alt="Arduino"
     title="Arduino" 
     width="30px" 
@@ -89,7 +81,7 @@ Me chamo Gabriel Augusto dos Santos, tenho 22 anos e sou natural de Belo Horizon
 <br/>
 <br/>
 
-### 🔥 Sequência
+<!--### 🔥 Sequência
 
 <img 
     align="center" 
@@ -97,7 +89,7 @@ Me chamo Gabriel Augusto dos Santos, tenho 22 anos e sou natural de Belo Horizon
     height="200" 
     style="padding-right: 10px;" 
     src="https://streak-stats.demolab.com/?user=gabrielaugusto872&theme=bear&background=000&border=30A3DC&dates=FFF" 
-/>
+/> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielaugusto872/gabrielaugusto872/output/github-contribution-grid-snake-dark.svg">
