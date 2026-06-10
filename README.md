@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Gabriel Augusto dos Santos, tenho 22 anos e sou natural de Belo Horizonte. Concluí o ensino médio no IFMG, com o curso técnico em eletrônica. Atualmente, estou cursando Engenharia de Controle e Automação na UFMG.
+Me chamo Gabriel Augusto dos Santos, tenho 22 anos e sou natural de Belo Horizonte. Concluí o ensino médio no IFMG, com o curso técnico em eletrônica. Atualmente, estou cursando Bacharelado em Sistemas de Informação no IFMG.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gabriel-dos-santos-b34861248/">
