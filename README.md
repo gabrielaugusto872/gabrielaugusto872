@@ -67,32 +67,24 @@ Me chamo Gabriel Augusto dos Santos, tenho 22 anos e sou natural de Belo Horizon
 />
 <img 
     align="left" 
-    alt="JS" 
-    title="JavaScript"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"          
 />
 <img 
     align="left" 
-    alt="JS" 
-    title="JavaScript"
+    alt="CSS" 
+    title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"          
 />
 <img 
     align="left" 
-    alt="JS" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"              
-/>
-<img 
-    align="left" 
-    alt="JS" 
-    title="JavaScript"
+    alt="HTML5" 
+    title="HTML5"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"              
